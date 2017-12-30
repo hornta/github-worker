@@ -12,7 +12,6 @@ Make sure you have passed the correct arguments for your database connection and
 npm install
 npm test
 node src
-node src
 ```
 
 ## Arguments
