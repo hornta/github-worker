@@ -38,3 +38,8 @@ GITHUB_TOKEN=[REPLACE_WITH_YOUR_GITHUB_TOKEN]
 
 ## Contribute
 Please feel free to create an issue and/or make a PR.
+
+## TODO
+- Unit tests for database actions(setting up MySQL with Travis).
+- Continue adding more items.
+- Support for categorizing items.
