@@ -1,4 +1,4 @@
-# Github Worker [![Build Status](https://travis-ci.org/hornta/github-worker.svg?branch=master)](https://travis-ci.org/hornta/github-worker) [![Known Vulnerabilities](https://snyk.io/test/github/hornta/github-worker/badge.svg?targetFile=package.json)](https://snyk.io/test/github/hornta/github-worker?targetFile=package.json)
+# Github Worker [![Build Status](https://travis-ci.org/hornta/github-worker.svg?branch=master)](https://travis-ci.org/hornta/github-worker) [![Known Vulnerabilities](https://snyk.io/test/github/hornta/github-worker/badge.svg?targetFile=package.json)](https://snyk.io/test/github/hornta/github-worker?targetFile=package.json) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Aggregates information about Github repositories using the Github API and stores it in a MySQL database.
 
 ## Setup
