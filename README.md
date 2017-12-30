@@ -5,7 +5,7 @@ Aggregates information about Github repositories using the Github API and stores
 First you have to install the SQL schema.
 Import the contents of schema.sql to your database.
 
-Make sure you have passed the correct arguments for your database connection and Github API token, or if you prefer having it in environment variables
+Make sure you have passed the correct arguments for your database connection and Github API token, or if you prefer having it in environment variables.
 
 ## Usage
 ```js
@@ -17,11 +17,11 @@ node src
 ## Arguments
 ```
 node src --github_token=[REPLACE_WITH_YOUR_GITHUB_TOKEN]
-           --mysql_host=localhost
-           --mysql_username=github-worker
-           --mysql_password=qwer1234
-           --mysql_database=github-worker
-           --amount=100
+         --mysql_host=localhost
+         --mysql_username=github-worker
+         --mysql_password=qwer1234
+         --mysql_database=github-worker
+         --amount=100
 
 node src --github_token=[REPLACE_WITH_YOUR_GITHUB_TOKEN] --mysql_host=localhost --mysql_username=github-worker --mysql_password=qwer1234 --mysql_database=github-worker --amount=100
 ```
@@ -38,3 +38,10 @@ GITHUB_TOKEN=[REPLACE_WITH_YOUR_GITHUB_TOKEN]
 
 ## Contribute
 Please feel free to create an issue and/or make a PR.
+
+## Future
+I plan to create a REST API to query the database of the items. 
+
+I also plan to create a web application that will consume that API.
+
+Let me know if you would want to help me with that!
