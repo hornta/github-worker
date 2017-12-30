@@ -15,22 +15,22 @@ const optionDefinitions = [
   {
     name: 'mysql_host',
     type: String,
-    defaultValue: process.env.DATABASE_HOST
+    defaultValue: process.env.MYSQL_HOST
   },
   {
-    name: 'mysql_user',
+    name: 'mysql_username',
     type: String,
-    defaultValue: process.env.DATABASE_USER
+    defaultValue: process.env.MYSQL_USERNAME
   },
   {
     name: 'mysql_password',
     type: String,
-    defaultValue: process.env.DATABASE_PASS
+    defaultValue: process.env.MYSQL_PASSWORD
   },
   {
     name: 'mysql_database',
     type: String,
-    defaultValue: process.env.DATABASE_NAME
+    defaultValue: process.env.MYSQL_DATABASE
   }
 ];
 

@@ -10,6 +10,7 @@ Make sure you have passed the correct arguments for your database connection and
 ## Usage
 ```js
 npm install
+npm test
 node index
 ```
 
@@ -17,21 +18,21 @@ node index
 ```
 node index --github_token=[REPLACE_WITH_YOUR_GITHUB_TOKEN]
            --mysql_host=localhost
-           --mysql_user=github-worker
+           --mysql_username=github-worker
            --mysql_password=qwer1234
            --mysql_database=github-worker
            --amount=100
 
-node index --github_token=[REPLACE_WITH_YOUR_GITHUB_TOKEN] --mysql_host=localhost --mysql_user=github-worker --mysql_password=qwer1234 --mysql_database=github-worker --amount=100
+node index --github_token=[REPLACE_WITH_YOUR_GITHUB_TOKEN] --mysql_host=localhost --mysql_username=github-worker --mysql_password=qwer1234 --mysql_database=github-worker --amount=100
 ```
 
 ## Environment variables
 If some arguments is not passed, it will default to these environment variables.
 ```
-DATABASE_HOST=localhost,
-DATABASE_USER=github-worker,
-DATABASE_PASS=qwer1234,
-DATABASE_NAME=github-worker
+MYSQL_HOST=localhost,
+MYSQL_USERNAME=github-worker,
+MYSQL_PASSWORD=qwer1234,
+MYSQL_DATABASE=github-worker
 GITHUB_TOKEN=[REPLACE_WITH_YOUR_GITHUB_TOKEN]
 ```
 

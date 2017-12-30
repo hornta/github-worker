@@ -1,12 +1,15 @@
 const axios = require('axios');
 const util = require('util');
 const moment = require('moment');
-const items = require('./items');
+const items = require('../items');
 const mysql = require('./mysql');
 const options = require('./options');
+const validateFormat = require('./validate-format');
+const getOwnerAndName = require('./get-owner-and-name');
 const query = util.promisify(mysql.query).bind(mysql);
 const measureStart = process.hrtime();
-checkFormat(items);
+
+validateFormat(items);
 checkForDuplicates(items);
 formatItems(items);
 
@@ -128,30 +131,6 @@ async function processPackage(githubUrl, npm) {
   }
 }
 
-function checkFormat(items) {
-  if(!Array.isArray(items)) {
-    throw new Error('Bad format');
-  }
-
-  for(let i = 0; i < items.length; ++i) {
-    if(typeof(items[i]) !== 'object') {
-      throw new Error('Bad format');
-    }
-
-    if(typeof items[i].github !== 'string') {
-      throw new Error('Bad format');
-    }
-
-    if(typeof items[i].process !== 'boolean') {
-      throw new Error('Bad format');
-    }
-
-    if(typeof items[i].npm !== 'undefined' && typeof items[i].npm !== 'string') {
-      throw new Error('Bad format');
-    }
-  }
-}
-
 function checkForDuplicates(items) {
   const mapping = {};
 
@@ -164,14 +143,6 @@ function checkForDuplicates(items) {
 
     mapping[lowerCased] = true;
   }
-}
-
-function getOwnerAndName(githubUrl) {
-  const urlParts = githubUrl.split('/');
-  const name = urlParts[urlParts.length - 1];
-  const owner = urlParts[urlParts.length - 2];
-
-  return { owner, name };
 }
 
 function formatItems(items) {
