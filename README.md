@@ -1,4 +1,4 @@
-# Github Worker
+# Github Worker [![Build Status](https://travis-ci.org/hornta/github-worker.svg?branch=master)](https://travis-ci.org/hornta/github-worker)
 Aggregates information about Github repositories using the Github API and stores it in a MySQL database.
 
 ## Setup
