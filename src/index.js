@@ -1,3 +1,4 @@
+require('dotenv').config();
 const axios = require('axios');
 const util = require('util');
 const moment = require('moment');
