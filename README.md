@@ -45,3 +45,8 @@ I plan to create a REST API to query the database of the items.
 I also plan to create a web application that will consume that API.
 
 Let me know if you would want to help me with that!
+
+## TODO
+- Unit tests for database actions(setting up MySQL with Travis).
+- Continue adding more items.
+- Support for categorizing items.
