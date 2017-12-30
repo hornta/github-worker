@@ -1,4 +1,4 @@
-# Github Worker [![Build Status](https://travis-ci.org/hornta/github-worker.svg?branch=master)](https://travis-ci.org/hornta/github-worker)
+# Github Worker [![Build Status](https://travis-ci.org/hornta/github-worker.svg?branch=master)](https://travis-ci.org/hornta/github-worker) [![Known Vulnerabilities](https://snyk.io/test/github/hornta/github-worker/badge.svg?targetFile=package.json)](https://snyk.io/test/github/hornta/github-worker?targetFile=package.json)
 Aggregates information about Github repositories using the Github API and stores it in a MySQL database.
 
 ## Setup
