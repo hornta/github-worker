@@ -1726,5 +1726,9 @@
   {
     "github": "https://github.com/react-ga/react-ga",
     "process": true
+  },
+  {
+    "github": "https://github.com/JakeSidSmith/react-fastclick",
+    "process": true
   }
 ]
