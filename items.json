@@ -1730,5 +1730,77 @@
   {
     "github": "https://github.com/JakeSidSmith/react-fastclick",
     "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/react-static-container",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Flipboard/react-canvas",
+    "process": true
+  },
+  {
+    "github": "https://github.com/trueadm/inferno",
+    "process": true
+  },
+  {
+    "github": "https://github.com/garbles/why-did-you-update",
+    "process": true
+  },
+  {
+    "github": "https://github.com/RamonGebben/react-perf-tool",
+    "process": true
+  },
+  {
+    "github": "https://github.com/redsunsoft/react-render-visualizer",
+    "process": true
+  },
+  {
+    "github": "https://github.com/loktar00/react-lazy-load",
+    "process": true
+  },
+  {
+    "github": "https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Lucifier129/react-lite",
+    "process": true
+  },
+  {
+    "github": "https://github.com/philcockfield/ui-harness",
+    "process": true
+  },
+  {
+    "github": "https://github.com/conorhastings/redux-test-recorder",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Legitcode/tests",
+    "process": true
+  },
+  {
+    "github": "https://github.com/bruderstein/unexpected-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/producthunt/chai-enzyme",
+    "process": true
+  },
+  {
+    "github": "https://github.com/sotojuan/redux-ava",
+    "process": true
+  },
+  {
+    "github": "https://github.com/carteb/carte-blanche",
+    "process": true
+  },
+  {
+    "github": "https://github.com/facebook/jest",
+    "process": true
+  },
+  {
+    "github": "https://github.com/alexkuz/redux-devtools-inspector",
+    "process": true
   }
 ]
