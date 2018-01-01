@@ -4,10 +4,6 @@
     "process": true
   },
   {
-    "github": "https://github.com/reactjs/redux",
-    "process": true
-  },
-  {
     "github": "https://github.com/mui-org/material-ui",
     "process": true
   },
@@ -1113,6 +1109,622 @@
   },
   {
     "github": "https://github.com/marmelab/admin-on-rest",
+    "process": true
+  },
+  {
+    "github": "https://github.com/brigade/react-waypoint",
+    "process": true
+  },
+  {
+    "github": "https://github.com/joshwnj/react-visibility-sensor",
+    "process": true
+  },
+  {
+    "github": "https://github.com/souporserious/react-measure",
+    "process": true
+  },
+  {
+    "github": "https://github.com/nkbt/react-height",
+    "process": true
+  },
+  {
+    "github": "https://github.com/berrtech/react-height-reporter",
+    "process": true
+  },
+  {
+    "github": "https://github.com/digidem/react-dimensions",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ctrlplusb/react-component-queries",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ctrlplusb/react-sizeme",
+    "process": true
+  },
+  {
+    "github": "https://github.com/okonet/react-container-dimensions",
+    "process": true
+  },
+  {
+    "github": "https://github.com/glortho/react-keydown",
+    "process": true
+  },
+  {
+    "github": "https://github.com/chrisui/react-hotkeys",
+    "process": true
+  },
+  {
+    "github": "https://github.com/avocode/react-shortcuts",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ayrton/react-key-handler",
+    "process": true
+  },
+  {
+    "github": "https://github.com/jeroencoumans/react-scroll-components",
+    "process": true
+  },
+  {
+    "github": "https://github.com/JedWatson/react-hammerjs",
+    "process": true
+  },
+  {
+    "github": "https://github.com/JedWatson/react-tappable",
+    "process": true
+  },
+  {
+    "github": "https://github.com/voronianski/react-swipe",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gabrielbull/react-aim",
+    "process": true
+  },
+  {
+    "github": "https://github.com/nfl/react-helmet",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gaearon/react-document-title",
+    "process": true
+  },
+  {
+    "github": "https://github.com/kodyl/react-document-meta",
+    "process": true
+  },
+  {
+    "github": "https://github.com/tajo/react-portal",
+    "process": true
+  },
+  {
+    "github": "https://github.com/fckt/react-layer-stack",
+    "process": true
+  },
+  {
+    "github": "https://github.com/cloudflare/react-gateway",
+    "process": true
+  },
+  {
+    "github": "https://github.com/olahol/react-ab",
+    "process": true
+  },
+  {
+    "github": "https://github.com/HubSpot/react-experiments",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/react-redux",
+    "process": true
+  },
+  {
+    "github": "https://github.com/philpl/fluorine",
+    "process": true
+  },
+  {
+    "github": "https://github.com/tshelburne/redux-batched-actions",
+    "process": true
+  },
+  {
+    "github": "https://github.com/yahoo/react-i13n",
+    "process": true
+  },
+  {
+    "github": "https://github.com/shastajs/shasta",
+    "process": true
+  },
+  {
+    "github": "https://github.com/loggur/react-redux-provide",
+    "process": true
+  },
+  {
+    "github": "https://github.com/tappleby/redux-batched-subscribe",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reflux/refluxjs",
+    "process": true
+  },
+  {
+    "github": "https://github.com/BinaryMuse/fluxxor",
+    "process": true
+  },
+  {
+    "github": "https://github.com/yahoo/fluxible",
+    "process": true
+  },
+  {
+    "github": "https://github.com/goatslacker/alt",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Yomguithereal/baobab-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/reselect",
+    "process": true
+  },
+  {
+    "github": "https://github.com/matthewwithanm/react-controllables",
+    "process": true
+  },
+  {
+    "github": "https://github.com/acdlite/recompose",
+    "process": true
+  },
+  {
+    "github": "https://github.com/tonyhb/redux-ui",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/redux",
+    "process": true
+  },
+  {
+    "github": "https://github.com/mobxjs/mobx-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/cerebral/cerebral",
+    "process": true
+  },
+  {
+    "github": "https://github.com/mariusandra/kea",
+    "process": true
+  },
+  {
+    "github": "https://github.com/mozilla-services/react-jsonschema-form",
+    "process": true
+  },
+  {
+    "github": "https://github.com/jurassix/react-validation-mixin",
+    "process": true
+  },
+  {
+    "github": "https://github.com/insin/newforms",
+    "process": true
+  },
+  {
+    "github": "https://github.com/christianalfoni/formsy-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/erikras/redux-form",
+    "process": true
+  },
+  {
+    "github": "https://github.com/andrewhathaway/Winterfell",
+    "process": true
+  },
+  {
+    "github": "https://github.com/davidkpiano/react-redux-form",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gcanti/tcomb-form",
+    "process": true
+  },
+  {
+    "github": "https://github.com/AppliedMathematicsANU/plexus-form",
+    "process": true
+  },
+  {
+    "github": "https://github.com/cerebral/cerebral-module-forms",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/react-router",
+    "process": true
+  },
+  {
+    "github": "https://github.com/STRML/react-router-component",
+    "process": true
+  },
+  {
+    "github": "https://github.com/acdlite/redux-router",
+    "process": true
+  },
+  {
+    "github": "https://github.com/taion/react-router-scroll",
+    "process": true
+  },
+  {
+    "github": "https://github.com/kriasoft/universal-router",
+    "process": true
+  },
+  {
+    "github": "https://github.com/taion/rrtr",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactjs/react-router-redux",
+    "process": true
+  },
+  {
+    "github": "https://github.com/svenanders/react-breadcrumbs",
+    "process": true
+  },
+  {
+    "github": "https://github.com/matthewwithanm/monorouter",
+    "process": true
+  },
+  {
+    "github": "https://github.com/cerebral/cerebral-module-router",
+    "process": true
+  },
+  {
+    "github": "https://github.com/andreypopp/react-async",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Rezonans/redux-async-connect",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ryanflorence/async-props",
+    "process": true
+  },
+  {
+    "github": "https://github.com/relay-tools/react-router-relay",
+    "process": true
+  },
+  {
+    "github": "https://github.com/makeomatic/redux-connect",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ericclemmons/react-resolver",
+    "process": true
+  },
+  {
+    "github": "https://github.com/heroku/react-refetch",
+    "process": true
+  },
+  {
+    "github": "https://github.com/markdalgleish/redial",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gyzerok/adrenaline",
+    "process": true
+  },
+  {
+    "github": "https://github.com/RickWong/react-transmit",
+    "process": true
+  },
+  {
+    "github": "https://github.com/apollostack/apollo-client",
+    "process": true
+  },
+  {
+    "github": "https://github.com/apollostack/react-apollo",
+    "process": true
+  },
+  {
+    "github": "https://github.com/facebook/relay",
+    "process": true
+  },
+  {
+    "github": "https://github.com/cerebral/cerebral-module-http",
+    "process": true
+  },
+  {
+    "github": "https://github.com/contra/react-responsive",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gajus/react-css-modules",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Khan/aphrodite",
+    "process": true
+  },
+  {
+    "github": "https://github.com/postcss/postcss-js",
+    "process": true
+  },
+  {
+    "github": "https://github.com/RickWong/react-inline-css",
+    "process": true
+  },
+  {
+    "github": "https://github.com/JedWatson/classnames",
+    "process": true
+  },
+  {
+    "github": "https://github.com/d6u/react-container-query",
+    "process": true
+  },
+  {
+    "github": "https://github.com/rofrischmann/react-look",
+    "process": true
+  },
+  {
+    "github": "https://github.com/kodyl/stilr",
+    "process": true
+  },
+  {
+    "github": "https://github.com/andreypopp/react-css-components",
+    "process": true
+  },
+  {
+    "github": "https://github.com/rofrischmann/inline-style-prefixer",
+    "process": true
+  },
+  {
+    "github": "https://github.com/FormidableLabs/radium",
+    "process": true
+  },
+  {
+    "github": "https://github.com/styled-components/styled-components",
+    "process": true
+  },
+  {
+    "github": "https://github.com/AlexGilleran/jsx-control-statements",
+    "process": true
+  },
+  {
+    "github": "https://github.com/wix/react-templates",
+    "process": true
+  },
+  {
+    "github": "https://github.com/substack/hyperx",
+    "process": true
+  },
+  {
+    "github": "https://github.com/airbnb/hypernova",
+    "process": true
+  },
+  {
+    "github": "https://github.com/redfin/react-server",
+    "process": true
+  },
+  {
+    "github": "https://github.com/halt-hammerzeit/webpack-isomorphic-tools",
+    "process": true
+  },
+  {
+    "github": "https://github.com/denvned/isomorphic-relay",
+    "process": true
+  },
+  {
+    "github": "https://github.com/rill-js/rill",
+    "process": true
+  },
+  {
+    "github": "https://github.com/kriasoft/isomorphic-style-loader",
+    "process": true
+  },
+  {
+    "github": "https://github.com/facebookincubator/create-react-app",
+    "process": true
+  },
+  {
+    "github": "https://github.com/SpencerCDixon/redux-cli",
+    "process": true
+  },
+  {
+    "github": "https://github.com/reactuate/reactuate",
+    "process": true
+  },
+  {
+    "github": "https://github.com/pheuter/essential-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/TrueCar/gluestick",
+    "process": true
+  },
+  {
+    "github": "https://github.com/lvarayut/relay-fullstack",
+    "process": true
+  },
+  {
+    "github": "https://github.com/bdefore/universal-redux",
+    "process": true
+  },
+  {
+    "github": "https://github.com/insin/nwb",
+    "process": true
+  },
+  {
+    "github": "https://github.com/erikras/react-redux-universal-hot-example",
+    "process": true
+  },
+  {
+    "github": "https://github.com/FredericHeem/starhackit",
+    "process": true
+  },
+  {
+    "github": "https://github.com/RickWong/react-isomorphic-starterkit",
+    "process": true
+  },
+  {
+    "github": "https://github.com/react-webpack-generators/generator-react-webpack",
+    "process": true
+  },
+  {
+    "github": "https://github.com/chentsulin/electron-react-boilerplate",
+    "process": true
+  },
+  {
+    "github": "https://github.com/olahol/reactpack",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gaearon/react-hot-boilerplate",
+    "process": true
+  },
+  {
+    "github": "https://github.com/alexfedoseev/generator-flux-on-rails",
+    "process": true
+  },
+  {
+    "github": "https://github.com/rocjs/roc",
+    "process": true
+  },
+  {
+    "github": "https://github.com/davezuko/react-redux-starter-kit",
+    "process": true
+  },
+  {
+    "github": "https://github.com/nicksp/redux-webpack-es6-boilerplate",
+    "process": true
+  },
+  {
+    "github": "https://github.com/mxstbr/react-boilerplate",
+    "process": true
+  },
+  {
+    "github": "https://github.com/lynndylanhurley/redux-auth",
+    "process": true
+  },
+  {
+    "github": "https://github.com/treasure-data/redux-search",
+    "process": true
+  },
+  {
+    "github": "https://github.com/matthewwithanm/react-inlinesvg",
+    "process": true
+  },
+  {
+    "github": "https://github.com/gcanti/tcomb-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/Olical/react-faux-dom",
+    "process": true
+  },
+  {
+    "github": "https://github.com/martinandert/react-translate-component",
+    "process": true
+  },
+  {
+    "github": "https://github.com/zpao/qrcode.react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ReactTraining/react-media",
+    "process": true
+  },
+  {
+    "github": "https://github.com/fernandopasik/react-children-utilities",
+    "process": true
+  },
+  {
+    "github": "https://github.com/yahoo/react-intl",
+    "process": true
+  },
+  {
+    "github": "https://github.com/i18next/react-i18next",
+    "process": true
+  },
+  {
+    "github": "https://github.com/CherryProjects/react-translate-maker",
+    "process": true
+  },
+  {
+    "github": "https://github.com/globalizejs/react-globalize",
+    "process": true
+  },
+  {
+    "github": "https://github.com/firebase/reactfire",
+    "process": true
+  },
+  {
+    "github": "https://github.com/pilwon/react-famous",
+    "process": true
+  },
+  {
+    "github": "https://github.com/magalhas/backbone-react-component",
+    "process": true
+  },
+  {
+    "github": "https://github.com/KtorZ/elm-react-component",
+    "process": true
+  },
+  {
+    "github": "https://github.com/toxicFork/react-three-renderer",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ProjectSeptemberInc/gl-react",
+    "process": true
+  },
+  {
+    "github": "https://github.com/react-d3-library/react-d3-library",
+    "process": true
+  },
+  {
+    "github": "https://github.com/ProjectSeptemberInc/gl-react-dom",
+    "process": true
+  },
+  {
+    "github": "https://github.com/shakacode/react_on_rails",
+    "process": true
+  },
+  {
+    "github": "https://github.com/jhudson8/react-backbone",
+    "process": true
+  },
+  {
+    "github": "https://github.com/syranide/react-swf",
+    "process": true
+  },
+  {
+    "github": "https://github.com/STRML/react-localstorage",
+    "process": true
+  },
+  {
+    "github": "https://github.com/PixelsCommander/ReactiveElements",
+    "process": true
+  },
+  {
+    "github": "https://github.com/evancz/react-elm-components",
+    "process": true
+  },
+  {
+    "github": "https://github.com/azmenak/react-stripe-checkout",
+    "process": true
+  },
+  {
+    "github": "https://github.com/hzdg/react-google-analytics",
+    "process": true
+  },
+  {
+    "github": "https://github.com/appleboy/react-recaptcha",
+    "process": true
+  },
+  {
+    "github": "https://github.com/rangle/redux-segment",
+    "process": true
+  },
+  {
+    "github": "https://github.com/react-ga/react-ga",
     "process": true
   }
 ]
