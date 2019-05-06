@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "debug": "node --inspect-brk=9229 src",
-    "test": "mocha"
+    "test": "mocha",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -14,9 +16,11 @@
     "command-line-args": "^4.0.7",
     "dotenv": "^4.0.0",
     "moment": "^2.20.1",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "snyk": "^1.161.1"
   },
   "devDependencies": {
     "mocha": "^4.1.0"
-  }
+  },
+  "snyk": true
 }
